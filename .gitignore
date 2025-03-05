@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 notebooks/*data/
+notebooks/cur_image.png
 
 # Distribution / packaging
 .Python
