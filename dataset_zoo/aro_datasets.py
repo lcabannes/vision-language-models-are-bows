@@ -180,7 +180,7 @@ class VG_Attribution(Dataset):
         all_attributes = np.array(self.all_attributes)
         for attr in np.unique(all_attributes):
             attr_mask = (all_attributes == attr)
-            if attr_mask.sum() < 25:
+            if attr_mask.sum() < 25 and len(self.dataset) >= 10000:
                 continue
             result_records.append({
                 "Attributes": attr,
