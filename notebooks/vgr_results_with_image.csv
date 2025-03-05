@@ -1,0 +1,49 @@
+Relation,Accuracy,Count,Dataset
+above,0.8141263940520446,269,Visual Genome Relation
+at,0.9733333333333334,75,Visual Genome Relation
+behind,0.5365853658536586,574,Visual Genome Relation
+below,0.5454545454545454,209,Visual Genome Relation
+beneath,1.0,10,Visual Genome Relation
+carrying,0.8333333333333334,12,Visual Genome Relation
+covered by,0.7777777777777778,36,Visual Genome Relation
+covered in,0.6428571428571429,14,Visual Genome Relation
+covered with,1.0,16,Visual Genome Relation
+covering,0.9393939393939394,33,Visual Genome Relation
+cutting,1.0,12,Visual Genome Relation
+eating,1.0,21,Visual Genome Relation
+feeding,1.0,10,Visual Genome Relation
+grazing on,1.0,10,Visual Genome Relation
+hanging on,1.0,14,Visual Genome Relation
+holding,0.9788732394366197,142,Visual Genome Relation
+in,0.963276836158192,708,Visual Genome Relation
+in front of,0.8061224489795918,588,Visual Genome Relation
+inside,0.9482758620689655,58,Visual Genome Relation
+leaning against,1.0,9,Visual Genome Relation
+leaning on,1.0,12,Visual Genome Relation
+looking at,0.9354838709677419,31,Visual Genome Relation
+lying in,1.0,15,Visual Genome Relation
+lying on,1.0,60,Visual Genome Relation
+on,0.9744655581947743,1684,Visual Genome Relation
+on top of,0.9751243781094527,201,Visual Genome Relation
+parked on,1.0,21,Visual Genome Relation
+pulled by,0.2222222222222222,9,Visual Genome Relation
+pulling,0.8888888888888888,9,Visual Genome Relation
+reflected in,1.0,14,Visual Genome Relation
+resting on,1.0,13,Visual Genome Relation
+riding,1.0,51,Visual Genome Relation
+sitting at,1.0,26,Visual Genome Relation
+sitting in,0.9565217391304348,23,Visual Genome Relation
+sitting on,0.9885714285714285,175,Visual Genome Relation
+sitting on top of,1.0,10,Visual Genome Relation
+standing by,0.9166666666666666,12,Visual Genome Relation
+standing in,1.0,59,Visual Genome Relation
+standing on,1.0,52,Visual Genome Relation
+surrounded by,0.9285714285714286,14,Visual Genome Relation
+to the left of,0.6202041079963829,7741,Visual Genome Relation
+to the right of,0.6501743960728588,7741,Visual Genome Relation
+under,0.6363636363636364,132,Visual Genome Relation
+using,1.0,19,Visual Genome Relation
+walking in,1.0,10,Visual Genome Relation
+walking on,1.0,19,Visual Genome Relation
+watching,0.7272727272727273,22,Visual Genome Relation
+wearing,1.0,949,Visual Genome Relation
